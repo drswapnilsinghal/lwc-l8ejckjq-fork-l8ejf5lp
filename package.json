@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/drswapnilsinghal.lwc-l8ejckjq-fork-l8ejf5lp",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve kJOQkFH3Z2FeTWzg8Lg4 --open"
+  }
+}
